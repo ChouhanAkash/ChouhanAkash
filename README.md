@@ -1,31 +1,87 @@
 # 👋 Hi, I'm Akash Chouhan
 
-A passionate **Frontend Developer (React/React Native)** from Bhopal, India, with a keen interest in building sleek and scalable mobile applications. Currently pursuing Full Stack Web Development at Masai School, I bring a strong foundation in JavaScript, React, React Native, and Firebase.
+A passionate **Full Stack Developer** from Bhopal, India, specializing in **React, React Native, and modern backend technologies**.  
+Currently pursuing **Full Stack Web Development at Masai School**, I love building **scalable web and mobile applications** with clean UI/UX and optimized performance.
+
+---
+
+## 📝 Professional Summary
+Passionate and detail-oriented **Full Stack Developer** specializing in **React.js, React Native, and backend technologies**.  
+- Skilled in building responsive applications with **React, React Native, Node.js, and Express**  
+- Experienced with **Firebase (Auth, Firestore, Realtime DB)**, secure authentication with **JWT & bcrypt**, and scalable APIs  
+- Strong foundation in **JavaScript, HTML, CSS, MongoDB, and Redux**  
+- Focused on writing **clean, maintainable code** and delivering seamless digital experiences across e-commerce, logistics, and real-time domains  
+
+---
+
+## 🎓 Education
+- **Masai School, Bengaluru** (Sep 2024 – Present)  
+  *Full Stack Web Development*  
+- **Lakshmi Narain College of Technology Excellence, Bhopal** (Jun 2020 – Jun 2024)  
+  *Bachelor of Technology (CSE)*  
+
+---
+
+## 💻 Technical Skills
+
+- **Languages:** JavaScript (ES6+), Node.js, HTML5, CSS3  
+- **Frameworks/Libraries:** React, React Native, Redux, Express, Tailwind CSS  
+- **Database/Backend:** MongoDB, Firebase (Auth, Firestore, Realtime DB)  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Android Studio, Netlify  
+
+---
+
+## 🤝 Soft Skills
+Teamwork • Time Management • Adaptability • Communication • Problem-Solving  
+
+---
 
 ## 🚀 Projects
 
-### 🛒 [Trexo Grocery App](https://github.com/ChouhanAkash/Capstone_Project_1.git)
-A fast and user-friendly grocery delivery app built with React Native & Firebase  
-• Features: Google & OTP Authentication | Real-Time DB | Redux State Management
+### 📚 [Book Nest](https://github.com/ChouhanAkash/Book_Nest.git)  
+*React, Node.js, Express, MongoDB, Firebase*  
+- Full-stack book management platform with CRUD features  
+- Secure authentication with JWT & bcrypt; optimized MongoDB queries  
+- Responsive UI with React + real-time updates using Firebase  
+- Smooth, device-friendly navigation for better UX  
 
+---
+
+### 🛒 [Trexo Grocery App](https://github.com/ChouhanAkash/Capstone_Project_1.git)  
+*React Native, Firebase, Redux*  
+- Grocery delivery app with Google Sign-In and OTP login  
+- Real-time Firebase sync ensuring smooth user experience  
+- Designed catalog + checkout flow with clean, responsive UI  
+- User-friendly product catalog and seamless checkout  
+
+---
+
+### 🚚 [FleetManagerPro - Logistics & Transportation](https://github.com/ChouhanAkash/FleetManagerPro_Logistics-and-Transportation.git)  
+*Node.js, Express, MongoDB, React*  
+- Logistics system for tracking fleets, drivers, and shipments  
+- Role-based authentication for admins and users  
+- Dashboards and reports for efficient monitoring  
+
+---
 ### 🛍 [Minimart UI](https://github.com/ChouhanAkash/Minimart_UI.git)
 A clean, responsive e-commerce front-end interface  
 • Built with React Native, Redux | Emphasis on UI/UX and modular components
 
-## 🧠 Skills
-
-- **Frontend:** React, React Native, Redux, JavaScript, HTML5, CSS3  
-- **Backend/Database:** Firebase (Auth & Realtime DB)  
-- **Tools:** Git, VS Code
-
-## 📫 Contact Me
-
-- 📧 akashchouhan1209@gmail.com  
-- 🌐 [Portfolio](https://www.akashportfolio.com/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/akash-chouhan-a06320202)  
-- 💻 [GitHub](https://github.com/ChouhanAkash)
+## 🏆 Certifications
+- **Construct Week Project** – Masai School  
+- **x to 10x Hackathon Participation** – Masai School  
 
 ---
 
-> “Eager to contribute to innovative mobile projects and grow as a full-stack mobile developer.”
+## 📫 Contact Me
+- 📱 **Phone:** +91 6266068835  
+- 📧 **Email:** [akashchouhan1209@gmail.com](mailto:akashchouhan1209@gmail.com)  
+- 🌐 **Portfolio:** [akashportfolio.com](https://www.akashportfolio.com/)  
+- 💻 **GitHub:** [github.com/ChouhanAkash](https://github.com/ChouhanAkash)  
+- 💼 **LinkedIn:** [Akash Chouhan](https://www.linkedin.com/in/akash-chouhan-a06320202)  
+
+---
+
+> *“Eager to contribute to innovative projects and grow as a versatile Full Stack Developer.”*  
+
 
