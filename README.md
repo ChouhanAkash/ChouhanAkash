@@ -76,7 +76,7 @@ A clean, responsive e-commerce front-end interface
 ## 📫 Contact Me
 - 📱 **Phone:** +91 6266068835  
 - 📧 **Email:** [akashchouhan1209@gmail.com](mailto:akashchouhan1209@gmail.com)  
-- 🌐 **Portfolio:** [akashportfolio.com](https://www.akashportfolio.com/)  
+- 🌐 **Portfolio:** [akashportfolio.com](https://chouhanakash.github.io/final_portfolio/)  
 - 💻 **GitHub:** [github.com/ChouhanAkash](https://github.com/ChouhanAkash)  
 - 💼 **LinkedIn:** [Akash Chouhan](https://www.linkedin.com/in/akash-chouhan-a06320202)  
 
